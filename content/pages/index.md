@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Eva. I help my dancers enjoy their lives.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will help you move your body in a way that will connect to your
+      innermost traumas and dreams. Our method is accessible to all ages and
+      physical ability.
     actions:
       - label: Contact Me
         url: /contact
